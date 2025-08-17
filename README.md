@@ -1,5 +1,7 @@
 # chatollama
 
+<img src="https://github.com/ollama/ollama/blob/main/docs/logo.svg" alt="Ollama" width="100" />
+
 Projeto para experimentos com DSA (Data Science / APIs) composto por dois serviços:
 
 - `dsa_api/` — API Python (FastAPI/Flask, conforme implementado no código) para endpoints de processamento.
